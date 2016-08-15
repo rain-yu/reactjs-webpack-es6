@@ -1,0 +1,24 @@
+{
+  "name": "react-webpack-es6",
+  "version": "1.0.0",
+  "description": "脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rain-yu/reactjs-webpack-es6.git"
+  },
+  "keywords": [
+    "reactjs",
+    "webpack",
+    "es6"
+  ],
+  "author": "horizon@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rain-yu/reactjs-webpack-es6/issues"
+  },
+  "homepage": "https://github.com/rain-yu/reactjs-webpack-es6#readme"
+}
